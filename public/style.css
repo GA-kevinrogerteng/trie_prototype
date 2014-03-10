@@ -1,3 +1,6 @@
 #results{
   text-transform:capitalize;
 }
+li {
+	text-decoration: none;
+}
